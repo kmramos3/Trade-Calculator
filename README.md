@@ -7,8 +7,8 @@ En este repositorio se encuentran tres programas, los cuales fueron requeridos p
 `Inga. Roxana Bollat`, catedrática del curso de Programación II.
 
 ### Prrogramas 
-1.- `Datos Persona:` ingreso de datos personales y devuelve los años que tiene la persona.
-2.- `Calculadora Círculo:` radio y pi
-3.- `Sobre Carga:` operaciones básicas
+- `Datos Persona:` ingreso de datos personales y devuelve los años que tiene la persona.
+- `Calculadora Círculo:` radio y pi
+- `Sobre Carga:` operaciones básicas
 
 ### Autor: `Kevin M. Ramos P.`
