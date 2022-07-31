@@ -6,7 +6,7 @@ Facultad de Ingeniería
 En este repositorio se encuentran tres programas, los cuales fueron requeridos por la 
 `Inga. Roxana Bollat`, catedrática del curso de Programación II.
 
-### Prrogramas 
+### Programas 
 - `Datos Persona:` ingreso de datos personales y devuelve los años que tiene la persona.
 - `Calculadora Círculo:` radio y pi
 - `Sobre Carga:` operaciones básicas
