@@ -1,4 +1,3 @@
-# Pegalo aquí
 # Calculadora
 class Calculadora:
   global dato1 
